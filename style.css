@@ -1,0 +1,27 @@
+* {
+	font-family: 'Oxygen', sans-serif;
+}
+
+html,
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+.header {
+	color: #ee6e73;
+	font-weight: 300;
+}
+
+.mx-3 {
+	margin-left: 2rem !important;
+	margin-right: 2rem !important;
+}
+
+footer {
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+}
